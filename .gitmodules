@@ -1,0 +1,3 @@
+[submodule "lib/petrinet"]
+	path = lib/petrinet
+	url = git@github.com:mjobst-necls/petrinet.git
